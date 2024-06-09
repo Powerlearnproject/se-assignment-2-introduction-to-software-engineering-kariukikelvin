@@ -1,3 +1,5 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/-ucQIGTc)
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=15237688&assignment_repo_type=AssignmentRepo)
 # SE-Assignment-2
 Assignment: Introduction to Software Engineering
 Instructions:
@@ -7,9 +9,19 @@ Questions:
 Define Software Engineering:
 
 What is software engineering, and how does it differ from traditional programming?
+its the systematic apllication of engineering tools, principles and methods to the development and maintenance of a software system while traditional programming is the conventional approach of writing code to create specific instructions for a computer to follow
+
+
 Software Development Life Cycle (SDLC):
 
 Explain the various phases of the Software Development Life Cycle. Provide a brief description of each phase.
+requirement gathering - this is gathering and documenting user needs and system requirements in this first pahes
+design phase - in this phase you create a high - level and detailed design of the softaware and user interface
+development phase - writing down the code and building the softaware according to the design specifications
+testing - conducting various tests to ensure the software meets quality standards and functional requirements gathered
+deployement - in this phase, you release the software to users or customers / installation
+maintenance - provide an ongoing support, updates and enhancements to the software after deployment 
+
 Agile vs. Waterfall Models:
 
 Compare and contrast the Agile and Waterfall models of software development. What are the key differences, and in what scenarios might each be preferred?
